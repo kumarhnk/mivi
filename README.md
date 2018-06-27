@@ -3,16 +3,16 @@
 #setups to install gem 
 
 
-  1: clone the repo\n
+  1: clone the repo
 
-  2: gem install json \n
+  2: gem install json
   
-  3: gem install ./mivi-0.0.0.gem \n
+  3: gem install ./mivi-0.0.0.gem 
   
-  4: irb \n
+  4: irb 
   
-  5: require 'mivi' \n
+  5: require 'mivi' 
   
-  6: Mivi.readFile '# file path absolute or relative ' \n
+  6: Mivi.readFile '# file path absolute or relative ' 
       example:  Mivi.readFile '~/dump/mivi/collection.json'
   
